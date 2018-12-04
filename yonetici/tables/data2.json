@@ -2,36 +2,50 @@
     {
         "id": 0,
         "name": "Item 0",
-        "price": "$0"
+        "price": "$0",
+        "duzenle-btn" : "<button type=\"submit\" class=\"btn btn-primary\">Düzenle</button>",
+        "sil-btn" :  "<button type=\"submit\" class=\"btn btn-danger\">Sil</button>"
     },
     {
         "id": 1,
         "name": "Item 1",
-        "price": "$1"
+        "price": "$1",
+        "duzenle-btn" : "<button type=\"submit\" class=\"btn btn-primary\">Düzenle</button>",
+        "sil-btn" :  "<button type=\"submit\" class=\"btn btn-danger\">Sil</button>"
     },
     {
         "id": 2,
         "name": "Item 2",
-        "price": "$2"
+        "price": "$2",
+        "duzenle-btn" : "<button type=\"submit\" class=\"btn btn-primary\">Düzenle</button>",
+        "sil-btn" :  "<button type=\"submit\" class=\"btn btn-danger\">Sil</button>"
     },
     {
         "id": 3,
         "name": "Item 3",
-        "price": "$3"
+        "price": "$3",
+        "duzenle-btn" : "<button type=\"submit\" class=\"btn btn-primary\">Düzenle</button>",
+        "sil-btn" :  "<button type=\"submit\" class=\"btn btn-danger\">Sil</button>"
     },
     {
         "id": 4,
         "name": "Item 4",
-        "price": "$4"
+        "price": "$4",
+        "duzenle-btn" : "<button type=\"submit\" class=\"btn btn-primary\">Düzenle</button>",
+        "sil-btn" :  "<button type=\"submit\" class=\"btn btn-danger\">Sil</button>"
     },
     {
         "id": 5,
         "name": "Item 5",
-        "price": "$5"
+        "price": "$5",
+        "duzenle-btn" : "<button type=\"submit\" class=\"btn btn-primary\">Düzenle</button>",
+        "sil-btn" :  "<button type=\"submit\" class=\"btn btn-danger\">Sil</button>"
     },
     {
         "id": 6,
         "name": "Item 6",
-        "price": "$6"
+        "price": "$6",
+        "duzenle-btn" : "<button type=\"submit\" class=\"btn btn-primary\">Düzenle</button>",
+        "sil-btn" :  "<button type=\"submit\" class=\"btn btn-danger\">Sil</button>"
     }
 ]
