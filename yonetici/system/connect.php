@@ -1,8 +1,8 @@
 <?php    
-    $hostname="##";
-    $username="##";
-    $pass="##";
-    $db="hasan4k_ionictr";
+    $hostname="####";
+    $username="####";
+    $pass="####*";
+    $db="####";
     $conn =new mysqli($hostname,$username,$pass,$db);
     mysqli_set_charset($conn,"utf8");
     if(!$conn)
